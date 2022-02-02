@@ -276,7 +276,14 @@
     "faculty": "Computer Science",
     "bio": "CR7 is GOAT.",
     "email": "shishirkafle44@gmail.com"
-  }
+  },
+  {
+    "name": "Anjali Prajapati",
+    "batch": 2019,
+    "faculty": "Computer Engineering",
+    "bio": "Time to Upgrade to version 2.0",
+    "email": "anjaliprajapati50@gmail.com"
+}
   ]
   
 
